@@ -7,4 +7,4 @@
 
 <h2>Project Demo:</h2>
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/atique-shahriar/Penguin-Fashion-with-Tailwind-CSS/main/Desktop%20Version%20Penguin-Fashion.png" alt="project-screenshot" width="400" height="400/"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/atique-shahriar/Penguin-Fashion-with-Tailwind-CSS/main/Desktop%20Version%20Penguin-Fashion.png" alt="project-screenshot" width="480" height="800/"></div>
