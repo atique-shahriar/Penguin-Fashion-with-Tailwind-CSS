@@ -1,4 +1,4 @@
-<h1>Project Title: Penguine Fashion</h1>
+<h1>Project Title: Penguine Fashion With Tailwind CSS</h1>
 <hr>
 <br>
 <h3>Live Link:  <a
