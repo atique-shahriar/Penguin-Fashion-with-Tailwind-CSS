@@ -1,7 +1,7 @@
 <h1>Penguine Fashion Landing Page</h1>
 <hr>
 <h3>Live Link:  <a
-    href="https://atiqueshahriarr.github.io/Penguin-Fashion-Landing-Page/">Penguine Fashion Landing Page Using TailwindCSS</a></h3>
+    href="https://atiqueshahriarr.github.io/Penguin-Fashion-Landing-Page/">Penguine Fashion Landing Page</a></h3>
 <h4> Tools & Technologies: HTML, CSS, Tailwind CSS</h4><br>
 
 <h2>Project Demo:</h2>
